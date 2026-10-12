@@ -24,14 +24,14 @@ V tej nalogi sem naredil Aplikacijo Helloconstraints, ki ponastavi števec. Gumb
 
 ## Odgovori na Vprašanja
 1. Katera atributa omejitev na gumbu Zero omogočata, da je navpično enakomerno postavljen med ostalima
-dvema gumboma?,
+dvema gumboma?<br>
 app:layout_constraintTop_toBottomOf="@id/button_toast" in app:layout_constraintBottom_toTopOf="@id/button_count"
-2. Kateri atribut omejitve na gumbu Zero poskrbi, da je vodoravno poravnan z ostalima dvema gumboma?,
+2. Kateri atribut omejitve na gumbu Zero poskrbi, da je vodoravno poravnan z ostalima dvema gumboma?<br>
 app:layout_constraintStart_toStartOf="parent"
-3. Kateri postopek lahko uporabite, da vključite gumb Zero tudi v postavitvi xlarge in land?,
+3. Kateri postopek lahko uporabite, da vključite gumb Zero tudi v postavitvi xlarge in land?<br>
 c. Oba postopka sta ustrezna
-4. Kakšen je pravilen podpis metode, ki jo uporabite kot vrednost atributa android:onClick v XML?,
+4. Kakšen je pravilen podpis metode, ki jo uporabite kot vrednost atributa android:onClick v XML?<br>
 (b) public void callMethod(View view)
 5. Obdelava dogodka klika (angl. click handler) za gumb Count se začne s podpisom
-public void countUp(View view). Kateri pristop je učinkovitejši za spreminjanje barve ozadja?,
+public void countUp(View view). Kateri pristop je učinkovitejši za spreminjanje barve ozadja?<br>
 (b) Uporabiti parameter view in na njem uporabiti setBackgroundColor().
