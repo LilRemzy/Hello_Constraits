@@ -1,6 +1,6 @@
-# Nadgradnja aplikacije HelloConstraint (gumb Zero)
+# HelloConstraint
 
-V tej nalogi sem nadgradil aplikacijo **HelloConstraint** z gumbom **Zero**, ki ponastavi števec. Gumbi ob kliku spreminjajo barvo, postavitev pa sem prilagodil tudi za ležečo orientacijo in tablico.
+V tej nalogi sem naredil Aplikacijo Helloconstraints, ki ponastavi števec. Gumbi ob kliku spreminjajo barvo, postavitev pa sem prilagodil tudi za ležečo orientacijo in tablico.
 
 ## Cilji
 
