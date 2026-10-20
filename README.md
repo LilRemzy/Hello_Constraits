@@ -18,5 +18,3 @@ V tej nalogi sem naredil Aplikacijo Helloconstraints, ki ponastavi števec. Gumb
 
 ## Zaslonske slike aplikacije
 <img width="320" height="555" alt="Slika1" src="https://github.com/user-attachments/assets/2965ca72-8fd0-4f62-80a2-5569744ee73e" />
-<img width="320" height="555" alt="Slika2" src="https://github.com/user-attachments/assets/83050988-4972-4b19-a4f3-32dc1a4c9735" />
-
